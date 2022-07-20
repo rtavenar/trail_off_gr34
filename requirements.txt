@@ -2,3 +2,4 @@ numpy
 gpxpy
 ipyleaflet
 geopy
+matplotlib
